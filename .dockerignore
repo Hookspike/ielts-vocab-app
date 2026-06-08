@@ -4,3 +4,4 @@ dist
 .gitignore
 8000词.txt
 parse-vocab.js
+parse-vocab.cjs
