@@ -1,0 +1,6 @@
+node_modules
+dist
+.git
+.gitignore
+8000词.txt
+parse-vocab.js
