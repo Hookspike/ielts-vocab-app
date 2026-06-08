@@ -6,5 +6,7 @@ export default defineConfig({
   server: {
     host: true,
     port: 3000
-  }
+  },
+  publicDir: 'public',
+  assetsInclude: ['**/*.json']
 })
